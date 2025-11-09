@@ -3,6 +3,12 @@
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in@SD", group-title="MOVIES", Max Middle East (1080p)
 http://87.255.35.150:18851
+#EXTINF:-1 tvg-id="SonyMax2.in@SD",group-title="MOVIES", Sony Max 2 (576p)
+http://87.255.35.150:18841
+#EXTINF:-1 tvg-id="SonyPal.in@SD",group-title="Entertainment", Sony Pal (576p)
+http://87.255.35.150:18887
+#EXTINF:-1 tvg-id="SonyPix.in@SD", group-title="MOVIES", Sony Pix (1080p)
+http://87.255.35.150:18495
 #EXTINF:-1 tvg-id="MNX.in@SD", group-title="MOVIES", MNX (1080p)
 http://87.255.35.150:18936
 #EXTINF:-1 tvg-id="MoviesNow.in@SD",group-title="MOVIES", Movies Now (1080p)
@@ -348,6 +354,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
 
 
 
