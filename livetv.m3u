@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="http://192.168.29.108:5001/epg.xml.gz"
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Entertainment",&TV (1080p)
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg" group-title="MOVIES",Star Gold, drmScheme="clearkey", drmLicense="ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef"
-https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?hdnea=st=1762595404~exp=1762681804~acl=/*~hmac=1748937feb028d934cb405ec56509a7c9333d7b71fd11ae32ebe80baeb59a7d4
+#EXTINF:-1 tvg-id="144" tvg-logo="https://img.media.jio.com/tvpimages/11/79/302083_1753198669731_l_high.jpg" group-title="MOVIES",Star Gold
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Star_Gold_HD_BTS/output/index.mpd?hdnea=st=1762595404~exp=1762681804~acl=/*~hmac=1748937feb028d934cb405ec56509a7c9333d7b71fd11ae32ebe80baeb59a7d4?drmScheme="clearkey", drmLicense="ec7ad3786d9e5efa9e0c4aeb3e58c7b7:907509ccae7e68b30ae75b5d09fe60ef"
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="Movies",Zee Cinema (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
@@ -330,6 +330,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
 
 
 
