@@ -106,6 +106,8 @@ http://192.168.29.108:5001/live/242.m3u8
 http://192.168.29.108:5001/live/248.m3u8
 #EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://192.168.29.108:5001/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 http://192.168.29.108:5001/live/250.m3u8
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD", group-title="Entertainment", Colors Rishtey Asia (576p)
+http://87.255.35.150:18886
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://192.168.29.108:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://192.168.29.108:5001/live/279.m3u8
 #EXTINF:-1 tvg-id=286 tvg-name="Animal Planet HD World" tvg-logo="http://192.168.29.108:5001/jtvimage/Animal_Planet_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", Animal Planet HD World
@@ -340,6 +342,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 #EXTINF:-1 tvg-id="RakutenTVActionMovies.es@UK" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten TV Action Movies UK (1080p)
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+
 
 
 
