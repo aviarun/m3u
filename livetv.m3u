@@ -5,31 +5,31 @@ https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
 http://87.255.35.150:18849
-#EXTINF:-1 tvg-id="MaxMiddleEast.in@SD", group-title="MOVIES", Max Middle East (1080p)
+#EXTINF:-1 tvg-id="MaxMiddleEast.in@SD" group-title="MOVIES", Max Middle East (1080p)
 http://87.255.35.150:18851
-#EXTINF:-1 tvg-id="ZeeAction.in@SD", group-title="MOVIES", Zee Action (576p)
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" group-title="MOVIES", Zee Action (576p)
 http://87.255.35.150:18507
-#EXTINF:-1 tvg-id="ZeeBollywood.in@SD", group-title="MOVIES", Zee Bollywood (576p)
+#EXTINF:-1 tvg-id="ZeeBollywood.in@SD" group-title="MOVIES", Zee Bollywood (576p)
 http://87.255.35.150:18861
-#EXTINF:-1 tvg-id="StarGoldSelect.in@HD",group-title="MOVIES", Star Gold Select HD (1080p)
+#EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="MOVIES", Star Gold Select HD (1080p)
 http://87.255.35.150:18429
-#EXTINF:-1 tvg-id="StarMovies.in@HD",group-title="MOVIES", Star Movies HD (1080p)
+#EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="MOVIES", Star Movies HD (1080p)
 http://87.255.35.150:18301
-#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD",group-title="MOVIES", Star Movies Select HD (1080p)
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="MOVIES", Star Movies Select HD (1080p)
 http://87.255.35.150:18548
-#EXTINF:-1 tvg-id="SonyMax2.in@SD",group-title="MOVIES", Sony Max 2 (576p)
+#EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="MOVIES", Sony Max 2 (576p)
 http://87.255.35.150:18841
-#EXTINF:-1 tvg-id="SonyPal.in@SD",group-title="Entertainment", Sony Pal (576p)
+#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Entertainment", Sony Pal (576p)
 http://87.255.35.150:18887
-#EXTINF:-1 tvg-id="SonyPix.in@SD",group-title="MOVIES", Sony Pix (1080p)
+#EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
 http://87.255.35.150:18495
-#EXTINF:-1 tvg-id="SonyPix.in@SD",group-title="MOVIES", Sony Pix (1080p)
+#EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
 http://116.90.120.149:8000/play/a0ea/index.m3u8
-#EXTINF:-1 tvg-id="MNX.in@SD",group-title="MOVIES", MNX (1080p)
+#EXTINF:-1 tvg-id="MNX.in@SD" group-title="MOVIES", MNX (1080p)
 http://87.255.35.150:18936
-#EXTINF:-1 tvg-id="MoviesNow.in@SD",group-title="MOVIES", Movies Now (1080p)
+#EXTINF:-1 tvg-id="MoviesNow.in@SD" group-title="MOVIES", Movies Now (1080p)
 http://87.255.35.150:18935
-#EXTINF:-1 tvg-id="Andpictures.in@SD" http-referrer="https://onezoo.net", group-title="MOVIES", &pictures (576p)
+#EXTINF:-1 tvg-id="Andpictures.in@SD" http-referrer="https://onezoo.net" group-title="MOVIES", &pictures (576p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18510
@@ -370,3 +370,4 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-id="SphereMovies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Sphere Movies(1080p)
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+
