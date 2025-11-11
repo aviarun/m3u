@@ -41,6 +41,10 @@ https://cdn-2.pishow.tv/live/1459/master.m3u8
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Movies",Goldmines Movies 2
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-logo="",Hindi Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Movies" tvg-logo="",Hindi Dubb Movies
+https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-id=144 tvg-name="Colors HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.29.108:5001/live/144.m3u8
 #EXTINF:-1 tvg-id=146 tvg-name="History TV18 HD" tvg-logo="http://192.168.29.108:5001/jtvimage/History_HD.png" tvg-language="English" tvg-type="Infotainment" group-title="Infotainment", History TV18 HD
@@ -362,6 +366,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-id="SphereMovies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Sphere Movies(1080p)
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+
 
 
 
