@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="http://192.168.29.108:5001/epg.xml.gz"
 #EXTINF:-1 tvg-id="AndTV.in@SD" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Entertainment",&TV (1080p)
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" http-referrer="https://onezoo.net", group-title="Entertainment", Zee TV (1080p)
+#EXTINF:-1 tvg-id="ZeeTV.in@SD" http-referrer="https://onezoo.net" group-title="Entertainment", Zee TV (1080p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
 http://87.255.35.150:18849
@@ -51,9 +51,9 @@ https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
 #EXTVLCOPT:http-referrer="https://onezoo.net"
 #KODIPROP:inputstream.adaptive.http-referrer="https://onezoo.net"
 https://playyonogames.in/z5/stream.m3u8?id=0-9-209
-#EXTINF:-1 tvg-id="AajTak.in@SD", group-title="News", Aaj Tak (1080p)
+#EXTINF:-1 tvg-id="AajTak.in@SD" group-title="News", Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
-#EXTINF:-1 tvg-id="AajTak.in@SD", group-title="News", Aaj Tak
+#EXTINF:-1 tvg-id="AajTak.in@SD" group-title="News", Aaj Tak
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak (404p)
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
@@ -72,7 +72,7 @@ https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="ChannelDivya.in" tvg-logo="https://i.imgur.com/RZVmCxf.png" group-title="Devotional",Channel Divya (720p)
 https://mcncdndigital.com/divyatv/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="StarSports3.in@SD", group-title="Sports", Star Sports 3 (576p)
+#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="Sports", Star Sports 3 (576p)
 http://87.255.35.150:18804
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Sports",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
@@ -84,7 +84,7 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EpicTV.in@SD" tvg-logo="https://i.imgur.com/h1Ofnon.png" group-title="Devotional",Epic TV (1080p)
 https://epiconvh.akamaized.net/live/epic/master.m3u8
-#EXTINF:-1 tvg-id="ColorsInfinity.in@SD", group-title="Infotainment", Colors Infinity (1080p)
+#EXTINF:-1 tvg-id="ColorsInfinity.in@SD" group-title="Infotainment", Colors Infinity (1080p)
 http://87.255.35.150:18838
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Infotainment",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
@@ -132,7 +132,7 @@ http://192.168.29.108:5001/live/242.m3u8
 http://192.168.29.108:5001/live/248.m3u8
 #EXTINF:-1 tvg-id=250 tvg-name="Music India" tvg-logo="http://192.168.29.108:5001/jtvimage/Music_India.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", Music India
 http://192.168.29.108:5001/live/250.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD", group-title="Entertainment", Colors Rishtey Asia (576p)
+#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" group-title="Entertainment", Colors Rishtey Asia (576p)
 http://87.255.35.150:18886
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://192.168.29.108:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://192.168.29.108:5001/live/279.m3u8
@@ -270,26 +270,6 @@ http://192.168.29.108:5001/live/2936.m3u8
 http://192.168.29.108:5001/live/3074.m3u8
 #EXTINF:-1 tvg-id=3075 tvg-name="Shemaroo Bollywood" tvg-logo="http://192.168.29.108:5001/jtvimage/smrbol.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Shemaroo Bollywood
 http://192.168.29.108:5001/live/3075.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS",SONY SIX HD
-https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1762737862~acl=/*~id=19970036550879445680655570767889~hmac=34e6bedf154186ad56ebec609976629693551b54ae2e5650476f0d804e64b9a1
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="SPORTS",SONY TEN 1 HD
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS",SONY TEN 2 HD
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="SPORTS",SONY TEN 3 HD
-https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="SPORTS",SONY SIX
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="SPORTS",SONY TEN 1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png" group-title="SPORTS",SONY TEN 2
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
-#EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png" group-title="SPORTS",SONY TEN 3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4SD_Masthead_Logo.png" group-title="SPORTS",SONY TEN 4 SD
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-#EXTINF: -1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN4HD_Masthead_Logo.png" group-title="SPORTS",SONY TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="infotainment",Adventure Earth (720p)
@@ -370,4 +350,5 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
 #EXTINF:-1 tvg-id="SphereMovies" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Sphere Movies(1080p)
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
+
 
