@@ -127,6 +127,8 @@ http://192.168.29.108:5001/live/871.m3u8
 http://192.168.29.108:5001/live/279.m3u8
 #EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" group-title="Entertainment", Colors Rishtey Asia (576p)
 http://87.255.35.150:18886
+#EXTINF:-1 tvg-id="StarBharat.in@HD" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat HD (1080p)
+http://87.255.35.150:18555
 #EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9X Jalwa (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="Music",9X Tashan
@@ -183,6 +185,10 @@ http://192.168.29.108:5001/live/587.m3u8
 http://192.168.29.108:5001/live/591.m3u8
 #EXTINF:-1 tvg-id=592 tvg-name="ZOOM" tvg-logo="http://192.168.29.108:5001/jtvimage/Zoom.png" tvg-language="Hindi" tvg-type="Music" group-title="Music", ZOOM
 http://192.168.29.108:5001/live/592.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://i.imgur.com/4lUwdME.png" group-title="Undefined",PTC Chakde (720p)
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://i.imgur.com/8PHk66Q.png" group-title="Music",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" group-title="News", Aaj Tak (1080p)
 https://livehub-voidnet.onrender.com/cluster/streamcore/in/AAJTAK_REDIS.m3u8
 #EXTINF:-1 tvg-id="AajTak.in@SD" group-title="News", Aaj Tak
@@ -219,6 +225,8 @@ http://192.168.29.108:5001/live/3026.m3u8
 https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 tvg-id=1403 tvg-name="Republic Bharat" tvg-logo="http://192.168.29.108:5001/jtvimage/Republic_Bharat.png" tvg-language="Hindi" tvg-type="News" group-title="News", Republic Bharat
 http://192.168.29.108:5001/live/1403.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in@SD" tvg-logo="https://i.imgur.com/NEAoh6O.png" group-title="Undefined",Republic Bharat (1080p) [Geo-blocked]
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="HistoryTV18.in@HD" tvg-logo="https://i.imgur.com/zNJKdRf.png" group-title="Infotainment",History TV18 HD (1080p) [Geo-blocked]
 https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-id="JustforLaughs.us@Italy" tvg-logo="https://i.imgur.com/YoK4vcm.png" group-title="Infotainment",Just for Laughs Italy (720p)
@@ -289,8 +297,12 @@ http://192.168.29.108:5001/live/594.m3u8
 http://192.168.29.108:5001/live/801.m3u8
 #EXTINF:-1 tvg-id=1415 tvg-name="Ganga Darshan Varanasi" tvg-logo="http://192.168.29.108:5001/jtvimage/Ganga_Darshan_Varanasi.png" tvg-language="Hindi" tvg-type="Devotional" group-title="Devotional", Ganga Darshan Varanasi
 http://192.168.29.108:5001/live/1415.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Devotional",MH One Shraddha (360p)
+https://paramount.jswk.online/shraddhamhone/index.m3u8
 #EXTINF:-1 tvg-id="Aastha.in" tvg-logo="https://i.imgur.com/IqgrV92.png" group-title="Devotional",Aastha (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1328000.m3u8
+#EXTINF:-1 tvg-id="TotalBhakti.in@SD" tvg-logo="https://i.imgur.com/LPwRdmF.png" group-title="Devotional",Total Bhakti (1080p)
+https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/index.m3u8
 #EXTINF:-1 tvg-id="AasthaBhajan.in" tvg-logo="https://i.imgur.com/LyDxqnF.png" group-title="Devotional" http-referrer="Aasthatv.in",Aastha Bhajan (480p)
 #EXTVLCOPT:http-referrer=Aasthatv.in
 https://aasthaott.akamaized.net/110923/smil:bhajan.smil/chunklist_b264000.m3u8
@@ -330,6 +342,8 @@ http://192.168.29.108:5001/live/815.m3u8
 http://192.168.29.108:5001/live/816.m3u8
 #EXTINF:-1 tvg-id=872 tvg-name="Sony Yay Hindi" tvg-logo="http://192.168.29.108:5001/jtvimage/Sony_Yay_Hindi.png" tvg-language="Hindi" tvg-type="Kids" group-title="Kids", Sony Yay Hindi
 http://192.168.29.108:5001/live/872.m3u8
+#EXTINF:-1 tvg-id="SonyYay.in@SD" tvg-logo="https://i.imgur.com/MhlO1dB.png" group-title="Kids",Sony Yay! (576p)
+http://87.255.35.150:18285
 #EXTINF:-1 tvg-id=1079 tvg-name="CN HD+ English" tvg-logo="http://192.168.29.108:5001/jtvimage/CN_HD_English.png" tvg-language="English" tvg-type="Kids" group-title="Kids", CN HD+ English
 http://192.168.29.108:5001/live/1079.m3u8
 #EXTINF:-1 tvg-id=1226 tvg-name="Nick HD+" tvg-logo="http://192.168.29.108:5001/jtvimage/Nick_HD_Plus.png" tvg-language="English" tvg-type="Kids" group-title="Kids", Nick HD+
@@ -372,5 +386,14 @@ http://192.168.29.108:5001/live/1985.m3u8
 http://192.168.29.108:5001/live/1998.m3u8
 #EXTINF:-1 tvg-id=3348 tvg-name="Asia Cup Hindi" tvg-logo="http://192.168.29.108:5001/jtvimage/Asia_Cup_Hindi.png" tvg-language="Hindi" tvg-type="Sports" group-title="Sports", Asia Cup Hindi
 http://192.168.29.108:5001/live/3348.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://i.imgur.com/hWo7Ba4.png" group-title="Sports",Sony Sports Ten 1 (1080p)
+http://87.255.35.150:18926
+#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://i.imgur.com/W96KVqu.png" group-title="Sports",Sony Sports Ten 2 (1080p)
+http://87.255.35.150:18927
+#EXTINF:-1 tvg-id="SonySportsTen3.in@SD" tvg-logo="https://i.imgur.com/vG19HxD.png" group-title="Sports",Sony Sports Ten 3 (1080p)
+http://87.255.35.150:18848
+#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports" http-user-agent="stream",Sony Sports Ten 5 (1080p)
+#EXTVLCOPT:http-user-agent=stream
+http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
