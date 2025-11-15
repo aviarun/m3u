@@ -11,15 +11,15 @@ http://87.255.35.150:18429
 http://87.255.35.150:18301
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" group-title="MOVIES", Star Movies Select HD (1080p)
 http://87.255.35.150:18548
-#EXTINF:-1 tvg-id="SonyMax2.in@SD" group-title="MOVIES", Sony Max 2 (576p)
+#EXTINF:-1 tvg-id=483 group-title="MOVIES", Sony Max 2 (576p)
 http://87.255.35.150:18841
 #EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
 http://87.255.35.150:18495
 #EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
 http://116.90.120.149:8000/play/a0ea/index.m3u8
-#EXTINF:-1 tvg-id="MNX.in@SD" group-title="MOVIES", MNX (1080p)
+#EXTINF:-1 tvg-id=877 group-title="MOVIES", MNX (1080p)
 http://87.255.35.150:18936
-#EXTINF:-1 tvg-id="MoviesNow.in@SD" group-title="MOVIES", Movies Now (1080p)
+#EXTINF:-1 tvg-id=151 group-title="MOVIES", Movies Now (1080p)
 http://87.255.35.150:18935
 #EXTINF:-1 tvg-id=332 http-referrer="https://onezoo.net" group-title="MOVIES", &pictures (576p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
@@ -43,9 +43,7 @@ https://cloudfrontnet.vercel.app/tplay/playout/209612/master.m3u8
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 #EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Movies",&flix (360p)
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in@SD" tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak (1080p) [Not 24/7]
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-id="B4UMovies.in@India" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies India (1080p)
+#EXTINF:-1 tvg-id=182 tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="Movies",B4U Movies India (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://i.imgur.com/oTBVML2.png" group-title="Movies",Manoranjan Movies (720p)
 https://cdn-2.pishow.tv/live/228/master.m3u8
@@ -53,11 +51,13 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 http://192.168.29.108:5001/live/182.m3u8
 #EXTINF:-1 tvg-id=482 tvg-name="Colors Cineplex" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex
 http://192.168.29.108:5001/live/482.m3u8
+#EXTINF:-1 tvg-id=1295 tvg-logo="https://i.imgur.com/CKLn0ft.png" group-title="Movies",B4U Kadak (1080p) [Not 24/7]
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
 #EXTINF:-1 tvg-id=1295 tvg-name="B4U Kadak" tvg-logo="http://192.168.29.108:5001/jtvimage/B4U_Kadak.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", B4U Kadak
 http://192.168.29.108:5001/live/1295.m3u8
-#EXTINF:-1 tvg-id=381 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.29.108:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
+#EXTINF:-1 tvg-id=1450 tvg-name="Colors Cineplex Superhit" tvg-logo="http://192.168.29.108:5001/jtvimage/Rishtey_Cineplex.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Superhit
 http://192.168.29.108:5001/live/1450.m3u8
-#EXTINF:-1 tvg-id=344 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
+#EXTINF:-1 tvg-id=1477 tvg-name="Colors Cineplex HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Color_Cineplex_HD.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex HD
 http://192.168.29.108:5001/live/1477.m3u8
 #EXTINF:-1 tvg-id=1763 tvg-name="Colors Cineplex Bollywood" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_Cineplex_Bollywood.png" tvg-language="Hindi" tvg-type="Movies" group-title="Movies", Colors Cineplex Bollywood
 http://192.168.29.108:5001/live/1763.m3u8
@@ -109,7 +109,7 @@ https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
 http://87.255.35.150:18849
-#EXTINF:-1 tvg-id="SonyPal.in@SD" group-title="Entertainment", Sony Pal (576p)
+#EXTINF:-1 tvg-id=474 group-title="Entertainment", Sony Pal (576p)
 http://87.255.35.150:18887
 #EXTINF:-1 tvg-id=144 tvg-name="147" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.29.108:5001/live/144.m3u8
@@ -397,3 +397,4 @@ http://87.255.35.150:18848
 http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
