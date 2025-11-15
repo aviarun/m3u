@@ -113,7 +113,7 @@ http://87.255.35.150:18849
 http://87.255.35.150:18887
 #EXTINF:-1 tvg-id=144 tvg-name="147" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
 http://192.168.29.108:5001/live/144.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Entertainment",DD National HD (1080p)
+#EXTINF:-1 tvg-id=202 tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Entertainment",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id=3029 tvg-name="Bollywood Masala" tvg-logo="http://192.168.29.108:5001/jtvimage/bollywoodmasala.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Bollywood Masala
 http://192.168.29.108:5001/live/3029.m3u8
@@ -121,29 +121,29 @@ http://192.168.29.108:5001/live/3029.m3u8
 http://192.168.29.108:5001/live/1368.m3u8
 #EXTINF:-1 tvg-id=866 tvg-name="Jio Exclusive HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Jio_Exclusive.png" tvg-language="English" tvg-type="Entertainment" group-title="Entertainment", Jio Exclusive HD
 http://192.168.29.108:5001/live/866.m3u8
-#EXTINF:-1 tvg-id=190 tvg-name="Jio Events HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Entertainment", Jio Events HD
+#EXTINF:-1 tvg-id=871 tvg-name="Jio Events HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Jio_Events.png" tvg-language="Hindi" tvg-type="Infotainment" group-title="Entertainment", Jio Events HD
 http://192.168.29.108:5001/live/871.m3u8
 #EXTINF:-1 tvg-id=279 tvg-name="Rishtey" tvg-logo="http://192.168.29.108:5001/jtvimage/Rishtey.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Rishtey
 http://192.168.29.108:5001/live/279.m3u8
-#EXTINF:-1 tvg-id="ColorsRishteyAsia.in@SD" group-title="Entertainment", Colors Rishtey Asia (576p)
+#EXTINF:-1 tvg-id=279 group-title="Entertainment", Colors Rishtey Asia (576p)
 http://87.255.35.150:18886
 #EXTINF:-1 tvg-id="121" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat HD (1080p)
 http://87.255.35.150:18555
-#EXTINF:-1 tvg-id="9XJalwa.in@SD" tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9X Jalwa (1080p)
+#EXTINF:-1 tvg-id=440 tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9X Jalwa (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
-#EXTINF:-1 tvg-id="9XTashan.in" tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="Music",9X Tashan
+#EXTINF:-1 tvg-id=732 tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="Music",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-id=809 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (576p)
+#EXTINF:-1 tvg-id=587 tvg-logo="https://i.imgur.com/F17QtN2.png" group-title="Music",9XM (576p)
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
-#EXTINF:-1 tvg-id=822 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music (1080p)
+#EXTINF:-1 tvg-id=183 tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music (1080p)
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India (720p) [Not 24/7]
+#EXTINF:-1 tvg-id=250 tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="Zoomusic" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoomusic
 https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Music",YRF Music HD
+#EXTINF:-1 tvg-id=2753 tvg-logo="" group-title="Music",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom (720p)
+#EXTINF:-1 tvg-id=592 tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Music",Zoom (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="ShowBox.in" tvg-logo="https://i.imgur.com/Zm4Fhah.png" group-title="Music",ShowBox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
@@ -397,4 +397,5 @@ http://87.255.35.150:18848
 http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
 
