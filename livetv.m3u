@@ -1,10 +1,22 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="DhamakaMoviesB4U.in@SD" group-title="MOVIES", Dhamaka Movies B4U (576p)
+https://cdn-1.pishow.tv/live/235/master.m3u8
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD" group-title="MOVIES", Star Utsav Movies (576p)
+http://103.78.149.54:8000/play/a00m/index.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" group-title="MOVIES", Anmol Cinema 2 (576p)
+http://110.39.27.47:8001/play/a03w/index.m3u8
+#EXTINF:-1 tvg-id="B4UHitz.in@SD" group-title="MOVIES", B4U Hitz (576p)
+http://103.167.255.18:8085/play/a0he/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldThrills.in@SD" group-title="MOVIES", Star Gold Thrills (576p)
+http://103.167.255.18:8085/play/a0nd/index.m3u8
+#EXTINF:-1 tvg-id="StarGoldRomance.in@SD" group-title="MOVIES", Star Gold Romance (576p)
+http://103.167.255.18:8085/play/a0nm/index.m3u8
 #EXTINF:-1 tvg-id="MaxMiddleEast.in@SD" group-title="MOVIES", Max Middle East (1080p)
 http://87.255.35.150:18851
 #EXTINF:-1 tvg-id="ZeeAction.in@SD" group-title="MOVIES", Zee Action (576p)
 http://87.255.35.150:18507
 #EXTINF:-1 tvg-id=327 group-title="MOVIES", Zee Bollywood (576p)
-http://87.255.35.150:18861
+http://103.167.255.18:8085/play/a0ne/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" group-title="MOVIES", Star Gold Select HD (1080p)
 http://87.255.35.150:18429
 #EXTINF:-1 tvg-id="StarMovies.in@HD" group-title="MOVIES", Star Movies HD (1080p)
@@ -13,6 +25,8 @@ http://87.255.35.150:18301
 http://87.255.35.150:18548
 #EXTINF:-1 tvg-id=483 group-title="MOVIES", Sony Max 2 (576p)
 http://87.255.35.150:18841
+#EXTINF:-1 tvg-id="StarGold.in@HD" group-title="MOVIES", Star Gold HD (1080p)
+http://103.167.255.18:8085/play/a0kv/index.m3u8
 #EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
 http://87.255.35.150:18495
 #EXTINF:-1 tvg-id="SonyPix.in@SD" group-title="MOVIES", Sony Pix (1080p)
@@ -20,15 +34,13 @@ http://116.90.120.149:8000/play/a0ea/index.m3u8
 #EXTINF:-1 tvg-id=877 group-title="MOVIES", MNX (1080p)
 http://87.255.35.150:18936
 #EXTINF:-1 tvg-id=151 group-title="MOVIES", Movies Now (1080p)
-http://87.255.35.150:18935
+http://103.167.255.18:8085/play/a0lr/index.m3u8
 #EXTINF:-1 tvg-id=332 http-referrer="https://onezoo.net" group-title="MOVIES", &pictures (576p)
 #EXTVLCOPT:http-referrer=https://onezoo.net
 #KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
 http://87.255.35.150:18510
-#EXTINF:-1 tvg-id="AndpriveHD.in@SD" tvg-logo="https://i.imgur.com/qyyUlg3.png" group-title="Movies" http-referrer="https://onezoo.net",&prive HD (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-http://87.255.35.150:18494
+#EXTINF:-1 tvg-id="AndpriveHD.in@SD" group-title="MOVIES", &prive HD (1080p)
+http://103.167.255.18:8085/play/a0m4/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://i.imgur.com/uYjCv5p.png" group-title="Movies",Zee Cinema (1080p) [Geo-blocked]
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="Movies",Goldmines
@@ -104,11 +116,11 @@ https://newfhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
 #EXTINF:-1 tvg-id="137" tvg-logo="https://i.imgur.com/32W50Y6.png" group-title="Entertainment",&TV (1080p)
-https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+http://103.167.255.18:8085/play/a0mc/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus.in@SD" group-title="Entertainment", StarPlus (576p)
+http://103.167.255.18:8085/play/a0k5/index.m3u8
 #EXTINF:-1 tvg-id="141" http-referrer="https://onezoo.net" group-title="Entertainment", Zee TV (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://onezoo.net
-http://87.255.35.150:18849
+http://103.167.255.18:8085/play/a0k9/index.m3u8
 #EXTINF:-1 tvg-id=474 group-title="Entertainment", Sony Pal (576p)
 http://87.255.35.150:18887
 #EXTINF:-1 tvg-id=144 tvg-name="147" tvg-logo="http://192.168.29.108:5001/jtvimage/Colors_HD.png" tvg-language="Hindi" tvg-type="Entertainment" group-title="Entertainment", Colors HD
@@ -129,6 +141,8 @@ http://192.168.29.108:5001/live/279.m3u8
 http://87.255.35.150:18886
 #EXTINF:-1 tvg-id="121" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Entertainment",Star Bharat HD (1080p)
 http://87.255.35.150:18555
+#EXTINF:-1 tvg-id="Zing.in@SD" group-title="Music", Zing! (576p)
+http://103.167.255.18:8085/play/a0mx/index.m3u8
 #EXTINF:-1 tvg-id=440 tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="Music",9X Jalwa (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
 #EXTINF:-1 tvg-id=732 tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="Music",9X Tashan
@@ -380,6 +394,14 @@ http://192.168.29.108:5001/live/889.m3u8
 http://192.168.29.108:5001/live/1890.m3u8
 #EXTINF:-1 tvg-id=1970 tvg-name="Jio Sports 3 HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Jio_Sports_3_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Jio Sports 3 HD
 http://192.168.29.108:5001/live/1970.m3u8
+#EXTINF:-1 tvg-id="StarSports3.in@SD" group-title="Sports", Star Sports 3 (576p)
+http://103.167.255.18:8085/play/a0jm/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2Hindi.in@SD" group-title="Sports", Star Sports 2 Hindi (576p)
+http://103.167.255.18:8085/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-id="StarSports2.in@SD" group-title="Sports", Star Sports 2 (576p)
+http://103.167.255.18:8085/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@SD" group-title="Sports", Star Sports 1 (576p)
+http://103.167.255.18:8085/play/a0ki/index.m3u8
 #EXTINF:-1 tvg-id=1984 tvg-name="Star Sports 2 Hindi HD" tvg-logo="http://192.168.29.108:5001/jtvimage/Sports18_1_HD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Star Sports 2 Hindi HD
 http://192.168.29.108:5001/live/1984.m3u8
 #EXTINF:-1 tvg-id=1985 tvg-name="Star Sports 2 Hindi" tvg-logo="http://192.168.29.108:5001/jtvimage/Sports18_1_SD.png" tvg-language="English" tvg-type="Sports" group-title="Sports", Star Sports 2 Hindi
@@ -399,6 +421,7 @@ http://87.255.35.150:18848
 http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
 
 
 
