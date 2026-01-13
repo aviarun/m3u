@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTINF:-1 tvg-id="EpicTV.in@SD" group-title="Devotional",Epic TV (1080p)
+https://epiconvh.akamaized.net/live/epic/master.m3u8
+#EXTINF:-1 tvg-id="DDNational.in@HD" group-title="Entertainment", DD National HD (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="ZeeCineClassic.in@SD" group-title="MOVIES", Zee Cine Classic (1080p)
 https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8
 #EXTINF:-1 tvg-id="DhamakaMoviesB4U.in@SD" group-title="MOVIES", Dhamaka Movies B4U (576p)
@@ -433,6 +437,7 @@ http://87.255.35.150:18848
 http://87.255.35.150:18818
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Sports",Cricket Gold (1080p)
 https://d382r3rgbxdixq.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+
 
 
 
